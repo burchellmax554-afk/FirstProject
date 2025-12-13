@@ -1,6 +1,7 @@
-# 2025 updates: I didn't even know about comments when I wrote this in 2018
-# Any comments you see were only added just now
-# I also spaced out my code sections better. It was a mess before.
+# I kept the logic identical to what it was in 2018 but made a few readability updates: 
+# I didn't even know about comments when I wrote this in 2018 so I added a few
+# I spaced out my code sections better. It was a mess before.
+# I added spaces between characters like "<", "+", and "=" to make it more readable
 
 word = "codeskulptor"
 guessed = ""
@@ -45,4 +46,5 @@ if won:
     print("\nYou won! The word was:", word)
 else:
     print("\nYou lost!")
+
     print("The word was:", word)
