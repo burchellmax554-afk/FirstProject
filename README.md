@@ -1,5 +1,5 @@
 This project is the 1st major bit of coding I did back in high school all the way back in 2018. As a consequence, it's a very basic project, I would have 
-done things in a far different manner by my modern standards. Beacuse it's so old, I did have to partially reconstruct parts of it using nothing but
+done things in a far different manner by my modern standards. Because it's so old, I did have to partially reconstruct parts of it using nothing but
 a few screenshots, but this is what the completed code would have looked like back then. Python continues to be my favorite langiauge of mine to this day, 
 in no small part because it taught me the basics of coding.
 
